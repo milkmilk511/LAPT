@@ -1,6 +1,6 @@
 # LAPT
 Codes for Design Principle Transfer in Neural Architecture Search via Large Language Models. This work has been accepted by AAAI.
-Now, we open the codes for NAS-bench-201 and Trans-bench-101. Codes for DARTs will be accessed later.
+Now, we open the codes for NAS-bench-201 and Trans-bench-101. Codes for DARTs will be accessed later. If you have any question, please contact me xunzhou6-c@my.cityu.edu.hk
 
 # Settings
 Running these experiments on benchmarks is needed for GPU. You can try the proposed LATP easily. However, you should install the OpenAI parkage and guarantee the available use of LLMs such as GPT.
